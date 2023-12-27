@@ -7,11 +7,9 @@ Currently, I am most proficient in Python, Java, and JavaScript, but I also have
 - TypeScript
 - Express, Node, React and Next (JS Frameworks)
 - Bootstrap and Tailwind (CSS Frameworks)
-- C
+- C/C++
 - SQL-based databases like MySQL and PostgreSQL
 - MongoDB
-- Pandas (Python)
-- Scikit-learn (Python)
-- C++ and C#
+- Python libraries: Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow
 
 **Feel free to check out my projects and give me suggestions for improvement!**
