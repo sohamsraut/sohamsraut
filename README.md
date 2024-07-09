@@ -3,4 +3,4 @@ I'm a student developer currently in my third year at the **University of Washin
 I love CS, and am (currently) interested in AI/ML, Web Development, as well as the math and theory behind CS.
 
 > __*"What I cannot create, I cannot understand"*__
--Richard Feynman
+- Richard Feynman
